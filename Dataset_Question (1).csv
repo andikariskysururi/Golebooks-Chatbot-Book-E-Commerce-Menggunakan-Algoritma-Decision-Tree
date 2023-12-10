@@ -1,0 +1,118 @@
+Question,Class
+Berapa harga buku?,Book Price
+ Harga buku kena berapa?,Book Price
+Buku dijual berapa?,Book Price
+Bukunya berapa?,Book Price
+Berapa bukunya?,Book Price
+Harga buku berapa?,Book Price
+Buku harganya berapa?,Book Price
+Kalau harga buku berapa ya?,Book Price
+"Saya mau beli buku, kira kira harganya berapa ya?",Book Price
+Saya mau beli buku ini,Book Price
+Buku ini harganya berapa?,Book Price
+Harga buku ini berapa?,Book Price
+Bagaimana saya bisa membeli barang ini? ,Buy Method
+Cara beli barang bagaimana?,Buy Method
+Cara membeli barang bagaimana?,Buy Method
+Pembayaran apa saja yang diterima disini?,Buy Method
+bagaimana cara membeli barang tersebut?,Buy Method
+Bagaimana cara beli barang disini?,Buy Method
+Transaksinya boleh pakai e-money gak?,Buy Method
+Transaksinya boleh menggunakan m-banking?,Buy Method
+Saya mau transaksi COD bisa gak ?,Buy Method
+Pembayarannya bisa lewat BCA gak?,Buy Method
+Toko ini terima pembayaran Mandiri tidak?,Buy Method
+Bayarnya bisa pakai kartu debet gak?,Buy Method
+Disini bisa bayar transfer gak?,Buy Method
+Apa saja yang dapat dilakukan bot ini?,Features
+Fitur apa saja yang dimiliki bot ini ?,Features
+Apa saja fitur yang dimiliki bot ini ?,Features
+Ada fitur apa aja buat bot ini?,Features
+Ada fitur apa aja untuk bot ini?,Features
+Bagaimana cara bot ini bekerja?,Features
+Bagaimana bot ini bisa membantu saya?,Features
+Bot bisa ngapain aja?,Features
+Apa yang bisa bot ini bantu?,Features
+Bot ini bisa apa saja?,Features
+Barang apa saja yang dijual?,Goods List
+Jual apa saja?,Goods List
+Barang yang dijual apa saja?,Goods List
+Apa saja yang dijual disini?,Goods List
+Toko ini jual apa saja?,Goods List
+Apa saja yang dijual disini?,Goods List
+Disini jualan apa saja?,Goods List
+Barang apa yang dijual disini?,Goods List
+Barang apa saja yang dapat dibeli?,Goods List
+Barang yang ready apa aja ya?,Goods List
+Alat tulis disini yang dijual ada apa aja?,Goods List
+Disini ada barang apa aja?,Goods List
+Hai !,Greeting
+Halo !,Greeting
+Permisi,Greeting
+Hai apa kabar ?,Greeting
+Selamat pagi ,Morning Greeting
+Pagi,Morning Greeting
+"Halo , Selamat pagi ",Morning Greeting
+"Hi, Selamat Pagi ",Morning Greeting
+"Permisi,Selamat pagi ",Morning Greeting
+"assalamualaikum,Selamat pagi ",Morning Greeting
+Selamat malam ,Night Greeting
+Malam ,Night Greeting
+"Halo, Selamat Malam",Night Greeting
+"Hi,Selamat Malam",Night Greeting
+"Permisi,Selamat malam ",Night Greeting
+"assalamualaikum,Selamat malam ",Night Greeting
+"Hi,Selamat Siang",Noon Greeting
+Selamat siang,Noon Greeting
+Siang,Noon Greeting
+"Halo, Selamat siang",Noon Greeting
+"Permisi,Selamat siang",Noon Greeting
+"assalamualaikum,Selamat siang",Noon Greeting
+Pensil dijual berapa?,Pencil Price
+Pensil harganya berapa?,Pencil Price
+Pensil ini harganya berapa?,Pencil Price
+Pensil yang ini harganya berapa ?,Pencil Price
+Harga pensil berapa?,Pencil Price
+Berapa harga pensil ?,Pencil Price
+Harga pensil kena berapa?,Pencil Price
+Kalau harga pensil berapa ya?,Pencil Price
+"Saya mau beli pensil, kira kira harganya berapa ya?",Pencil Price
+Disini ada promo tidak?,Promo method
+Ada promo gak ?,Promo method
+Promo ada gak?,Promo method
+Promo ada apa saja?,Promo method
+Apakah ada promo?,Promo method
+Apakah ada promo untuk buku ini?,Promo method
+Promo apa saja yang sekarang masih berlaku?,Promo method
+Promo apa saja yang dimiliki di tempat ini?,Promo method
+Ada diskon gak?,Promo method
+Kalau beli banyak dapat diskon gak?,Promo method
+Kalau saya beli 3 dapat promo gak ?,Promo method
+Barang ini ada diskon gak?,Promo method
+Kalau saya beli pulpen + pensil dapat diskon gak?,Promo method
+Disini ada promo buat pembelian buku tidak?,Promo method
+Kalau saya beli ini bakal dapat promo apa?,Promo method
+Terimakasih ,Thankyou
+Makasih,Thankyou
+"Baik, Terimakasih Infonya !",Thankyou
+"Baik, Terimakasih ",Thankyou
+Terimakasih sudah membantu,Thankyou
+Terimakasih atas informasi nya !,Thankyou
+makasih infonya,Thankyou
+Terimakasih atas infonya,Thankyou
+makasih,Thankyou
+"Oke,terimakasih",Thankyou
+Ok makasih,Thankyou
+"Ok,terimakasih",Thankyou
+"Halo min, ada promo gak yah ?",Promo method
+pembayarannya pakai apa?,Buy Method
+berapa harga bukunya?,Book Price
+yang dijual apa aja ?,Goods List
+Makasih,Thankyou
+bagaimana cara kerja bot ini?,Features
+pagi,Morning Greeting
+Siang!,Noon Greeting
+Selamat malam,Night Greeting
+Halo min,Greeting
+infokan promo,Promo method
+Pembayarannya via apa aja ?,Buy Method
