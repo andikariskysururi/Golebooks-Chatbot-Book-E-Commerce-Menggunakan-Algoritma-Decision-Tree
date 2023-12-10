@@ -6,7 +6,7 @@
 
 Golebooks merupakan chatbot book e-commerce yang dibangun menggunakan model decision tree dan mampu membantu pelanggan untuk mengetahui barnag apa saja yang tersedia, harga barang, dan promo yang sedang berlangsung.
 
-##Metodologi
+
 
 
 ## Kategori Response Golebooks
